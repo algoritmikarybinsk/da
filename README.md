@@ -13,7 +13,7 @@
         </tr>
         <tr style="border:1px solid lightgrey">
            <td style="background-color:Olive;color:white;">Warface</td>
-           <td style="background-color:burlywood"><img src="https://mars.algoritmika.org/uploads/2020/10/soldier_0_1603274414.png width="30px" height="30px"/">Legion</td>
+           <td style="background-color:burlywood">height="30px"/">Legion</td>
            <td>Fire Master</td>
            <td style="background-color:burlywood">11.11.2020</td>
            <td>2 : 0</td>
