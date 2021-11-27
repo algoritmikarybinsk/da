@@ -1,14 +1,36 @@
 # da
 <html>
-    <body>
-        <headler style="background-color:black"
-    <img src="https://mars.algoritmika.org/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
-    <a style="color: color white" href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0" История</a>
-    <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0">История</a>
-    <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа боевых искусств</h1>
-    <img src="https://mars.algoritmika.org/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png" height="150"/>
-    <p style="font-size:20px">Приглашаем освоить любой из видов рукопашного боя, который вам по душе. У нас представлены: традиционный рукопашный бой, тайский бокс, Джиу-Джитсу, карате и многое другое. Занятия ведут профессиональные тренеры в группах разного уровня.</p>
-    <img src="https://mars.algoritmika.org/uploads/2020/10/karate-4575114_640_0_1602523338.png" height="230px"/><img src="https://mars.algoritmika.org/uploads/2020/10/punching-bag_0_1602525500.png" height="230px"/><img src="https://mars.algoritmika.org/uploads/2020/10/boxing-ring_0_1602525156.png" height="230px"/>
-    <p style="font-size:15px"> Адрес: город Спортивный, ул.Здоровья, 15.</p>
-    <p>Тел.:596-457</p>
+    <h1>Турнир по киберспорту(кать я тип поняла, но это долго)
+        
+    </h1>
+    <table style="border:1px solid lightgrey;border-collapse:collapse;">
+        <tr style="border:1px solid lightgrey;background-color:Olive;color:white;">
+            <td>Игра</td>
+            <td>Команда 1</td>
+            <td>Команда 2</td>
+            <td>Дата</td>
+            <td>Счёт</td>
+        </tr>
+        <tr style="border:1px solid lightgrey">
+           <td style="background-color:Olive;color:white;">Warface</td>
+           <td style="background-color:burlywood"><img src="https://mars.algoritmika.org/uploads/2020/10/soldier_0_1603274414.png width="30px" height="30px"/">Legion</td>
+           <td>Fire Master</td>
+           <td style="background-color:burlywood">11.11.2020</td>
+           <td>2 : 0</td>
+        </tr> 
+        <tr style="border:1px solid lightgrey">
+            <td style="background-color:Olive;color:white;">CrossFire</td>
+            <td style="background-color:burlywood">Wind of War</td>
+            <td>Legion</td>
+            <td style="background-color:burlywood">22.11.2020</td>
+            <td>2 : 1</td>
+        </tr>
+        <tr style="border:1px solid lightgrey">
+            <td style="background-color:Olive;color:white;">CS GO</td>
+            <td style="background-color:burlywood">Demon Strike</td>
+            <td>Wind of War</td>
+            <td style="background-color:burlywood">03.12.2020</td>
+            <td>1 : 0</td>
+        </tr>
+    </table>
 </html>
