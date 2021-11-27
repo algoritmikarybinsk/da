@@ -1,6 +1,6 @@
 # da
 <html>
-    <h1>Турнир по киберспорту(кать я тип поняла, но это долго)
+    <h1>Турнир по кибер спорту
         
     </h1>
     <table style="border:1px solid lightgrey;border-collapse:collapse;">
